@@ -1,0 +1,30 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roombiotank/node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roombiotank/node-app/issues"
+  },
+  "homepage": "https://github.com/roombiotank/node-app#readme"
+}
